@@ -1,0 +1,47 @@
+I"�	<p><span style="float: right; "><a href="/resume/assets/resume.pdf"><strong>&gt; Download as PDF</strong></a> </span>
+<br /></p>
+
+<h3 id="skills">SKILLS</h3>
+<p><strong>Web Technologies</strong> - HTML - CSS - PHP - React Js - JavaScript - SCSS - MySQLi .<br />
+<strong>Programming</strong> - Java - Python - C - C++ (Intermediate) . <br />
+<strong>Database</strong> - MySQL - Maria DB - Mongo DB . <br />
+<strong>Os’s</strong> - Linux - Kali - Windows.<br />
+<strong>Iot</strong> - Arduino - Raspberry Pi - Tinker Board .</p>
+
+<h3 id="projects">PROJECTS</h3>
+<p><strong>web-notepad</strong> -A simple app for note taking and sharing online , user can save and share his
+note , encrypt his note with private passkey - MIET <span style="float: right; ">Jan 2020 - Present</span><b></b></p>
+<p><a href="https://webnotepad.000webhostapp.com/" target="_blank">Visit Here.</a></p>
+
+<p><strong>virtual resume / profile / visiting card builder</strong> -A a user can create virtual resume , profile , or a virtual visiting card with the app. - MIET <span style="float: right; ">Feb 2020 - Present</span><b></b></p>
+<p><a href="https://v-card.netlify.com/" target="_blank">Visit Here.</a></p>
+
+<p><strong>Online Quiz Application</strong> -A It is an online platform for taking quiz MCQ’s. It has an admin pannel to check all the player taking quiz , add question , view results. - MIET <span style="float: right; ">Sep 2019 - Jan 2020</span><b></b></p>
+<p><a href="https://php-quiz.000webhostapp.com" target="_blank">Visit Here.</a></p>
+
+<p><strong>Certificate Verify</strong> -This Web App Verify the authenticity of certificate . We provide the certificate
+ID to the organizers which they give on certificate. - MIET <span style="float: right; ">Mar 2020 - Present</span><b></b></p>
+<p><a href="https://verifycert.netlify.app">Visit Here.</a></p>
+
+<h3 id="education">EDUCATION</h3>
+
+<p>Meerut Institute Of Engineering and Technology <span style="float: right; ">(2017 - 2021)</span><br />
+<strong>B.Tech (Hons.), Computer Science</strong><br />
+Percentage : 74.00%</p>
+
+<p>Walia Global Academy <span style="float: right; ">2016 - 2017</span><br />
+<strong>XIIth (Senior Secondary), Science</strong><br />
+Percentage : 69%</p>
+
+<p>St. Marys;s School <span style="float: right; ">2015 - 2016</span><br />
+<strong>Xth</strong><br />
+Percentage : 75%</p>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://vanijyatechnology.netlify.com">Vanijya Technology [startup]</a></li>
+  <li><a href="https://github.com/saxenaudit">My GitHub</a></li>
+</ul>
+
+:ET
