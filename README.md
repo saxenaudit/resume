@@ -5,11 +5,11 @@ A simple, minimal [Jekyll](jekyllrb.com) theme for a personal web page and blog,
 
 ## Screenshots
 
-![Home](https://github.com/saxenaudit/resume/tree/master/screenshots/home.png) 
-![Blog](https://github.com/saxenaudit/resume/tree/master/screenshots/blog.png) 
-![Resume](https://github.com/saxenaudit/resume/tree/master/screenshots/resume.png) 
-![Post](https://github.com/saxenaudit/resume/tree/master/screenshots/post.png) 
-![404](https://github.com/saxenaudit/resume/tree/master/screenshots/404.png) 
+![Home](https://github.com/saxenaudit/resume/blob/master/screenshots/home.png) 
+![Blog](https://github.com/saxenaudit/resume/blob/master/screenshots/blog.png) 
+![Resume](https://github.com/saxenaudit/resume/blob/master/screenshots/resume.png) 
+![Post](https://github.com/saxenaudit/resume/blob/master/screenshots/post.png) 
+![404](https://github.com/saxenaudit/resume/blob/master/screenshots/404.png) 
 
 ## Features
 - Simple, minimal and clean
