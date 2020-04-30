@@ -1,15 +1,15 @@
-# Pudhina
+# Portfolio
 A simple, minimal [Jekyll](jekyllrb.com) theme for a personal web page and blog, focusing on white space and readability
 
 [Click here](https://knhash.github.io/Pudhina/) to see the theme in action. Note that the download PDF button redirects to 404 due to lack of the file. This is by design, to demonstrate the Glitch effect therein.
 
 ## Screenshots
 
-![Home](https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/home.png?raw=true "Home") 
-![Blog](https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/blog.png?raw=true "Blog") 
-![Resume](https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/resume.png?raw=true "Resume") 
-![Post](https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/post.png?raw=true "Post") 
-![404](https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/404.png?raw=true "404") 
+![Home](https://github.com/saxenaudit/resume/tree/master/screenshots/home.png) 
+![Blog](https://github.com/saxenaudit/resume/tree/master/screenshots/blog.png) 
+![Resume](https://github.com/saxenaudit/resume/tree/master/screenshots/resume.png) 
+![Post](https://github.com/saxenaudit/resume/tree/master/screenshots/post.png) 
+![404](https://github.com/saxenaudit/resume/tree/master/screenshots/404.png) 
 
 ## Features
 - Simple, minimal and clean
