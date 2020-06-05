@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/avatar.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/avatar.jpg' | prepend: site.baseurl }}" id="about-img" alt="profile photo">
 
 <div id="describe-text">
 	<p> I am pursuing B.tech Computer Science from M.I.E.T, I am intrested in Ethical Hacking and Web Development.</p>
