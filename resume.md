@@ -32,7 +32,7 @@ ID to the organizers which they give on certificate. - MIET <span style="float: 
 **Email Spam Detector** -This Web App checks the spam in email content using natural language processing, made using python and django framework. - MIET <span style="float: right; ">Mar 2020 - Present</span><b>
 <p><a href="https://spamfilterappv1.herokuapp.com/">Visit Here.</a></p>
   
-**Email Spam Detector** -This Web App Predict the probability of Forest-Fire Occourence using machine learning model - MIET <span style="float: right; ">Mar 2020 - Present</span><b>
+**Forest Fire Prevention** -This Web App Predict the probability of Forest-Fire Occourence using machine learning model - MIET <span style="float: right; ">Mar 2020 - Present</span><b>
 <p><a href="https://forestfirepredictv1.herokuapp.com/">Visit Here.</a></p>
 
 
