@@ -23,11 +23,17 @@ note , encrypt his note with private passkey - MIET <span style="float: right; "
 <p><a href="https://v-card.netlify.com/" target="_blank">Visit Here.</a></p> 
 
 **Online Quiz Application** -A It is an online platform for taking quiz MCQ's. It has an admin pannel to check all the player taking quiz , add question , view results. - MIET <span style="float: right; ">Sep 2019 - Jan 2020</span><b>
-<p><a href="https://php-quiz.000webhostapp.com" target="_blank">Visit Here.</a></p> 
+<p><a href="https://quizup.vanijya.tech" target="_blank">Visit Here.</a></p> 
 
 **Certificate Verify** -This Web App Verify the authenticity of certificate . We provide the certificate
 ID to the organizers which they give on certificate. - MIET <span style="float: right; ">Mar 2020 - Present</span><b>
-<p><a href="https://verifycert.netlify.app">Visit Here.</a></p> 
+<p><a href="https://certiverifier.vanijya.tech">Visit Here.</a></p> 
+  
+**Email Spam Detector** -This Web App checks the spam in email content using natural language processing, made using python and django framework. - MIET <span style="float: right; ">Mar 2020 - Present</span><b>
+<p><a href="https://spamfilterappv1.herokuapp.com/">Visit Here.</a></p>
+  
+**Email Spam Detector** -This Web App Predict the probability of Forest-Fire Occourence using machine learning model - MIET <span style="float: right; ">Mar 2020 - Present</span><b>
+<p><a href="https://forestfirepredictv1.herokuapp.com/">Visit Here.</a></p>
 
 
 ### EDUCATION
