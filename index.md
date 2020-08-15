@@ -15,7 +15,7 @@ sitemap:
 	
 <center>	
 <a href="https://dev.to/saxenaudit">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="saxena uditanshu's DEV Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="saxena uditanshu's DEV Profile" height="50" width="50">
 </a>
 </center>
 </div>
